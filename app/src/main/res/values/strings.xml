@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Authorization</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="button_back">return</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="existing_user_error">User exist</string>
+    <string name="already_registered_error">You have registered</string>
+    <string name="registration_error">Registration error</string>
+</resources>
